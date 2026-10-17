@@ -1,41 +1,61 @@
 # Hi, I'm Sáng (saggi72) 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&width=550&lines=Automotive+%26+Embedded+Systems+Engineer;Python+%26+PyQt+Desktop+Tool+Developer;Hardware+Hacker+%26+3D+Printing+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&width=580&lines=Automation+%26+Automotive+Engineer;Setup+Bench+Test+%26+ECU+Flashing;Python%2FPyQt+%26+C%23+Desktop+Tools;Hardware+Hacker+%26+3D+Printing+Maker" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Một kỹ sư đam mê giải quyết các bài toán kỹ thuật từ **phần cứng đến phần mềm**, thích tối ưu hóa quy trình làm việc bằng công cụ tự động hóa và tự tay build các dự án DIY thực tế.
+Một kỹ sư **Automation & Automotive** đam mê giải quyết các bài toán kỹ thuật từ **phần cứng, vi điều khiển đến phần mềm**, chuyên về xây dựng hệ thống đo kiểm (Setup Bench Test), chẩn đoán ECU, tự động hóa quy trình và các dự án Maker/DIY.
 
-- 🚗 **Core Focus:** Hệ thống nhúng (Embedded Systems), Automotive Protocols (CAN Bus, UDS, LIN), & Vi điều khiển (STM32, ESP32).
-- 🛠️ **Desktop Tooling:** Phát triển các phần mềm GUI chẩn đoán & đo kiểm bằng Python, PyQt, C/C++.
+- 🚗 **Automotive & Bench Test:** Lắp đặt, cấu hình & chẩn đoán Test Bench, SW Flashing (FRS), mô phỏng tín hiệu CAN, kiểm thử & troubleshooting hệ thống điện LV/HV trên xe.
+- 🛠️ **Desktop Tooling & Systems:** Lập trình công cụ đo kiểm & GUI chẩn đoán bằng Python, PyQt, C# / C++.
+- ⚡ **Industrial Automation:** PLC Siemens, hệ thống đo kiểm khí thải liên tục (CEMS), tủ điều khiển & cảm biến công nghiệp.
 - 🖨️ **Maker & 3D Printing:** Tối ưu hóa / Mod máy in 3D (Klipper, Multi-material systems), thiết kế mạch điện KiCad & sản phẩm DIY.
-- 🎯 **Philosophy:** Driven by first-principles engineering & continuous learning.
 
 ---
 
-### 🧰 Tech Stack & Expertise
+### 💼 Work Experience
 
-#### 💻 Software & Diagnostics
+#### 🏎️ Automation Engineer / Setup Bench Test — **VINFAST**
+*Mar 2025 – Present | Hai Phong, Vietnam*
+- **Schematics & Architecture Review:** Thu thập & đánh giá sơ đồ nguyên lý, Component Data Sheets (CDS), tài liệu kiến trúc hệ thống ECU làm việc cùng Component Owner (CO) và Lead Engineer.
+- **Procurement & Logistics:** Sử dụng hệ thống SAP để xác minh linh kiện, thông số kỹ thuật và phối hợp đặt hàng mua vật tư/thiết bị.
+- **Bench Operations & Diagnostics:** Thi công, cài đặt và chẩn đoán các băng thử (Test Bench). Thực hiện nạp phần mềm (SW Flashing) theo FRS, mô phỏng tín hiệu/thông điệp CAN, xử lý sự cố hệ thống hạ áp (LV) & cao áp (HV).
+
+#### 🔬 CEMS / Systems Engineer — **VATCOM CO., LTD**
+*Jul 2024 – Mar 2025 | Hanoi, Vietnam*
+- Triển khai & giám sát thi công tủ điều khiển hệ thống quan trắc khí thải tự động (CEMS).
+- Cấu hình thiết bị đo, hệ thống cảm biến ống khói và lập trình PLC Siemens điều khiển van cấp dầu cho hệ thống lọc theo thiết kế.
+
+#### 🔧 Automation Technician (Internship) — **VATCOM CO., LTD**
+*Dec 2023 – Feb 2024 | Hanoi, Vietnam*
+- Bóc tách bản vẽ kỹ thuật AutoCAD, hỗ trợ thi công & bảo trì hệ thống tự động hóa công nghiệp.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt%2FPyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-#### 🔌 Hardware & Protocols
-![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+#### 🔌 Automotive & Industrial Automation
 ![CAN Bus](https://img.shields.io/badge/CAN_Bus%2FISO--TP-0052CC?style=for-the-badge)
-![UDS](https://img.shields.io/badge/UDS_ISO14229-FFAB00?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314199?style=for-the-badge&logo=kicad&logoColor=white)
+![UDS Diagnostics](https://img.shields.io/badge/UDS_ISO14229-FFAB00?style=for-the-badge)
+![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E52113?style=for-the-badge&logo=autodesk&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FA strip?style=for-the-badge&logo=sap&logoColor=white)
 
-#### 🖨️ 3D Printing & Firmware
+#### 🖨️ Hardware & 3D Printing
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314199?style=for-the-badge&logo=kicad&logoColor=white)
 ![Klipper](https://img.shields.io/badge/Klipper_Firmware-EF4444?style=for-the-badge)
-![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00A651?style=for-the-badge)
-![Elegoo](https://img.shields.io/badge/Elegoo-008080?style=for-the-badge)
+![3D Printing](https://img.shields.io/badge/3D_Printing-00A651?style=for-the-badge)
 
 ---
 
@@ -63,5 +83,5 @@ Một kỹ sư đam mê giải quyết các bài toán kỹ thuật từ **phầ
 ---
 
 <p align="center">
-  <i>"Hardware is hard, software is soft, but building both together is where the magic happens."</i>
+  <i>"Bridge the gap between Hardware, Firmware, and Software to build reliable systems."</i>
 </p>
