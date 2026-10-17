@@ -1,7 +1,7 @@
 # Hi, I'm Sáng (saggi72) 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&width=580&lines=Automation+%26+Automotive+Engineer;Setup+Bench+Test+%26+ECU+Flashing;Python%2FPyQt+%26+C%23+Desktop+Tools;Hardware+Hacker+%26+3D+Printing+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&width=580&lines=Automation+%26+Automotive+Engineer;Setup+Bench+Test+%26;Python%2FPyQt+%26+C%23+Desktop+Tools;Hardware+%26+3D+Printing+Maker" alt="Typing SVG" />
 </p>
 
 ---
