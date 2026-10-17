@@ -12,27 +12,23 @@ Một kỹ sư **Automation & Automotive** đam mê giải quyết các bài to�
 
 - 🚗 **Automotive & Bench Test:** Lắp đặt, cấu hình & chẩn đoán Test Bench, SW Flashing (FRS), mô phỏng tín hiệu CAN, kiểm thử & troubleshooting hệ thống điện LV/HV trên xe.
 - 🛠️ **Desktop Tooling & Systems:** Lập trình công cụ đo kiểm & GUI chẩn đoán bằng Python, PyQt, C# / C++.
-- ⚡ **Industrial Automation:** PLC Siemens, hệ thống đo kiểm khí thải liên tục (CEMS), tủ điều khiển & cảm biến công nghiệp.
+- ⚡ **Industrial Automation:** PLC Siemens, hệ thống đo kiểm khí thải tự động, tủ điều khiển & cảm biến công nghiệp.
 - 🖨️ **Maker & 3D Printing:** Tối ưu hóa / Mod máy in 3D (Klipper, Multi-material systems), thiết kế mạch điện KiCad & sản phẩm DIY.
 
 ---
 
-### 💼 Work Experience
+### ⚡ Technical Capabilities
 
-#### 🏎️ Automation Engineer / Setup Bench Test — **VINFAST**
-*Mar 2025 – Present | Hai Phong, Vietnam*
-- **Schematics & Architecture Review:** Thu thập & đánh giá sơ đồ nguyên lý, Component Data Sheets (CDS), tài liệu kiến trúc hệ thống ECU làm việc cùng Component Owner (CO) và Lead Engineer.
-- **Procurement & Logistics:** Sử dụng hệ thống SAP để xác minh linh kiện, thông số kỹ thuật và phối hợp đặt hàng mua vật tư/thiết bị.
-- **Bench Operations & Diagnostics:** Thi công, cài đặt và chẩn đoán các băng thử (Test Bench). Thực hiện nạp phần mềm (SW Flashing) theo FRS, mô phỏng tín hiệu/thông điệp CAN, xử lý sự cố hệ thống hạ áp (LV) & cao áp (HV).
+#### 🚗 Automotive Systems & Test Bench Setup
+- **ECU Diagnostics & Flashing:** Thực hiện nạp phần mềm (Software Flashing) theo FRS, chẩn đoán lỗi ECU và kiểm thử hệ thống hạ áp (LV) & cao áp (HV).
+- **Signal Simulation & Bus Protocols:** Mô phỏng tín hiệu & thông điệp CAN Bus/LIN Bus, phân tích dữ liệu giao thức UDS (ISO 14229).
+- **System Architecture & Schematics:** Bóc tách & đánh giá sơ đồ nguyên lý, Component Data Sheets (CDS), tài liệu kiến trúc hệ thống ECU.
+- **Hardware Bench Setup:** Lắp đặt, đi dây, cấu hình và khắc phục sự cố phần cứng trên các băng thử (Test Bench).
 
-#### 🔬 CEMS / Systems Engineer — **VATCOM CO., LTD**
-*Jul 2024 – Mar 2025 | Hanoi, Vietnam*
-- Triển khai & giám sát thi công tủ điều khiển hệ thống quan trắc khí thải tự động (CEMS).
-- Cấu hình thiết bị đo, hệ thống cảm biến ống khói và lập trình PLC Siemens điều khiển van cấp dầu cho hệ thống lọc theo thiết kế.
-
-#### 🔧 Automation Technician (Internship) — **VATCOM CO., LTD**
-*Dec 2023 – Feb 2024 | Hanoi, Vietnam*
-- Bóc tách bản vẽ kỹ thuật AutoCAD, hỗ trợ thi công & bảo trì hệ thống tự động hóa công nghiệp.
+#### 🏭 Industrial Automation & Systems
+- **Industrial Control & PLC:** Lập trình PLC Siemens điều khiển van, động cơ và quy trình tự động hóa.
+- **Environmental Monitoring:** Thi công, cài đặt và giám sát tủ điều khiển hệ thống quan trắc (CEMS) & cảm biến công nghiệp.
+- **Technical CAD & Management:** Thiết kế/bóc tách bản vẽ kỹ thuật AutoCAD, quản lý vật tư & linh kiện qua hệ thống ERP/SAP.
 
 ---
 
@@ -49,7 +45,7 @@ Một kỹ sư **Automation & Automotive** đam mê giải quyết các bài to�
 ![UDS Diagnostics](https://img.shields.io/badge/UDS_ISO14229-FFAB00?style=for-the-badge)
 ![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E52113?style=for-the-badge&logo=autodesk&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FA strip?style=for-the-badge&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FA153?style=for-the-badge&logo=sap&logoColor=white)
 
 #### 🖨️ Hardware & 3D Printing
 ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
